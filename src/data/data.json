@@ -1,0 +1,155 @@
+{
+  "Header": {
+    "title": "Invertí en la próxima superestrella",
+    "paragraph": "Convertite en sponsor de promesas locales y obtené beneficios con el crecimiento de su carrera."
+  },
+  "About": {
+    "paragraph": "Patrocima es una plataforma que conecta a personas con un gran talento (artistas, deportistas, atletas, influencers, youtubers, etc) con aquellas que quieren impulsar su carrera con un compromiso financiero.",
+    "paragraph2": "Nuestro objetivo es permitir que cada talento con gran potencial se financie y logre llevar su carrera al máximo. Por otro lado, el usuario se beneficiará con un porcentaje pequeño de sus ganancias futuras.",
+    "paragraph3": "Hay miles de talentosos que tienen la oportunidad de lograrlo, pero carecen de capital y red.",
+    "paragraph4": "Juntos, podemos potenciar su crecimiento."
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-plane",
+      "name": "¿Que es un token?",
+      "text": "Un token es la representación digital en el mundo Blockchain de algo que tiene valor dentro de un contexto. Podriamos imaginarlo en este escenario como comprar acciones de tu artista favorito."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "¿Como funciona un token?",
+      "text": "A medida que el talento reciba ganancias vas a participar por un porcentaje proporcional a la cantidad de tokens que poseas. Cada talento va a tener un numero limitado de tokens."
+    },
+    {
+      "icon": "fa fa-wordpress",
+      "name": "¿Quien puede comprar el token? (Invertir)",
+      "text": "Cualquier persona mayor de 18 años que tenga una cuenta bancaria o de binance. Puedes comprarlo mediante crypto o de la manera tradicional."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "¿Que ocurre si me arrepiento de haber comprado el token?",
+      "text": "Puedes venderlo en el mercado de tokens. Los mismos van a subir o bajar su valor de acuerdo a la oferta y la demanda."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "¿Como puedo ver si el talento tiene exito?",
+      "text": "Principalmente tendras acceso a visibilidad de las finanzas de tu talento que debera llevar un registro de sus ingresos laborales, pero no podras divulgar su información."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "¿Que ocurre si el talento fracasa?",
+      "text": "Es parte del riesgo, es una inversion de riesgo. Van a haber personas exitosas y personas que no tanto. No necesariamente vas a necesitar que sea una superestrella para festejar sus ganancias."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/03.jpg",
+      "name": "Sol Almagro",
+      "job": "CMO & Co-Founder"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Vicente Robirosa",
+      "job": "CEO & Co-Founder"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Oliver Balfour",
+      "job": "CTO & Co-Founder"
+    }
+  ],
+  "Contact": {
+    "address": "Recoleta, Buenos Aires, Argentina",
+    "phone": "+1 123 456 1234",
+    "email": "info@patrocima.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Acuerdo",
+      "text": "Trabajamos con el talento para formular un acuerdo justo de reparto de ingresos."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "TalenToken",
+      "text": "Los términos del acuerdo junto con los detalles sobre el talento se anuncian en la plataforma y se emiten los token (similar a las acciones de bolsa)."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Comunidad",
+      "text": "Los patrocinadores tienen la oportunidad de invertir comprando el token del talento, recibiendo un contrato que estipula los términos."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Éxito",
+      "text": "Cuando el talento se convierte en profesional, comparte una parte de sus ganancias con los patrocinadores."
+    }
+  ]
+}
